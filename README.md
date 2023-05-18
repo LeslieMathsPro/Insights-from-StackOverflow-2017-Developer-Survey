@@ -4,9 +4,9 @@ The library used
 - pandas==2.0.1
 
 Files Description  
-Stack Overflow's 2017.ipynb: Notebook containing the data analysis  
-survey_results_public.csv:  CSV file with main survey results, one respondent per row and one column per answer  
-survey_results_schema.csv:  CSV file with survey schema, i.e., the questions that correspond to each column name  
+*Stack Overflow's 2017.ipynb*: Notebook containing the data analysis  
+*survey_results_public.csv*:  CSV file with main survey results, one respondent per row and one column per answer  
+*survey_results_schema.csv*:  CSV file with survey schema, i.e., the questions that correspond to each column name  
 
 The dataset is too large to upload them here, but you could download them here : 
 https://www.kaggle.com/datasets/stackoverflow/so-survey-2017
